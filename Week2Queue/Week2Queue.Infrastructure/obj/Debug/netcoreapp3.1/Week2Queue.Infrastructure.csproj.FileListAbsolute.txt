@@ -1,0 +1,12 @@
+C:\Users\murka\source\repos\Week2Queue\Week2Queue.Infrastructure\bin\Debug\netcoreapp3.1\Week2Queue.Core.dll
+C:\Users\murka\source\repos\Week2Queue\Week2Queue.Infrastructure\obj\Debug\netcoreapp3.1\Week2Queue.Infrastructure.csprojAssemblyReference.cache
+C:\Users\murka\source\repos\Week2Queue\Week2Queue.Infrastructure\obj\Debug\netcoreapp3.1\Week2Queue.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\murka\source\repos\Week2Queue\Week2Queue.Infrastructure\obj\Debug\netcoreapp3.1\Week2Queue.Infrastructure.AssemblyInfo.cs
+C:\Users\murka\source\repos\Week2Queue\Week2Queue.Infrastructure\bin\Debug\netcoreapp3.1\Week2Queue.Infrastructure.deps.json
+C:\Users\murka\source\repos\Week2Queue\Week2Queue.Infrastructure\bin\Debug\netcoreapp3.1\Week2Queue.Infrastructure.dll
+C:\Users\murka\source\repos\Week2Queue\Week2Queue.Infrastructure\bin\Debug\netcoreapp3.1\Week2Queue.Infrastructure.pdb
+C:\Users\murka\source\repos\Week2Queue\Week2Queue.Infrastructure\bin\Debug\netcoreapp3.1\Week2Queue.Core.pdb
+C:\Users\murka\source\repos\Week2Queue\Week2Queue.Infrastructure\obj\Debug\netcoreapp3.1\Week2Queue.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\murka\source\repos\Week2Queue\Week2Queue.Infrastructure\obj\Debug\netcoreapp3.1\Week2Queue.Infrastructure.csproj.CopyComplete
+C:\Users\murka\source\repos\Week2Queue\Week2Queue.Infrastructure\obj\Debug\netcoreapp3.1\Week2Queue.Infrastructure.dll
+C:\Users\murka\source\repos\Week2Queue\Week2Queue.Infrastructure\obj\Debug\netcoreapp3.1\Week2Queue.Infrastructure.pdb
